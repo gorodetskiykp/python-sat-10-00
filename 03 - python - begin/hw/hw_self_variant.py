@@ -2,7 +2,7 @@ spaces = ' '
 print('Фирма: Рога и копыта')
 print(spaces * 61 + 'Дата 10.06.2023г.')
 print(spaces * 30 + 'ТОВАРНЫЙ ЧЕК')
-print('Наименование товара' + spaces * 12 + 'Кол-во' + spaces * 12 + 'Цена'\
+print('Наименование товара' + spaces * 12 + 'Кол-во' + spaces * 12 + 'Цена'
       + spaces * 12 + 'Сумма')
 print('Белый хлеб' + spaces * 23 + '1' + spaces * 12,
       '25руб. 39коп.' + spaces * 5 + '25руб. 39коп.')
@@ -55,7 +55,7 @@ count6 = 2
 price1 = 25.39
 price2 = 81.49
 price3 = 139.5
-price4 = 600.49 
+price4 = 600.49
 price5 = 459.9
 price6 = 99.99
 total1 = count1 * price1
