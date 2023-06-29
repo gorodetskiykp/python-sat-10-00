@@ -12,7 +12,7 @@ print("Hello\tWorld")
 print("Hello\\World")  # Hello\World
 print("o")
 
-print("""Hello 
+print("""Hello
 '12'""")
 
 # Доступ к элементу в последовательности
@@ -31,4 +31,3 @@ print(str(89543), type(str(89543)))
 print(int('   54   ') + 3)
 print(int('-2'))
 # print(int(''))  # ValueError: invalid literal for int() with base 10: ''
-
