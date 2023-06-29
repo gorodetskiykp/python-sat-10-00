@@ -10,7 +10,7 @@ ex_tuple = (1, 2, 3, 4, "Hello")
 
 # 1. Всегда можно подсчитать кол-во элементов - len()
 print(len(ex_str))  # 5
-print(len(ex_list)) # 6
+print(len(ex_list))  # 6
 print(len(ex_tuple))  # 5
 
 # 2. Доступно определение наличия элемена к последовательности - in
