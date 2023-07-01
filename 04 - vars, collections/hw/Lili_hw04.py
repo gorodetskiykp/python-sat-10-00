@@ -4,11 +4,8 @@ goods=['Газета "Деловой Петербург"', 'Ручка шари�
 counts=[1,3,2,1]
 prices=[10,8,30,13]
 totals=[counts[0] * prices[0], counts[1] * prices[1], counts[2] * prices[2], counts[3] * prices[3]]
-summ = totals[0]+totals[1]+totals[2]+totals[3]
-name= 'Иванова Мария'
-
-
-
+summ=totals[0]+totals[1]+totals[2]+totals[3]
+name='Иванова Мария'
 
 print('ИП Онегин г. Санкт-Петербург, пр. Невский, д.5')
 print('{:>100}'.format('Дата ' + date))
